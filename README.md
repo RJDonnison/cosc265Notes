@@ -2,10 +2,6 @@
 
 Basic sql syntax notes for cosc265 lab test, most info collected from W3 Schools.
 
-## TODO
-
-- Add Examples
-
 ## Table
 
 - [CREATE](Create.md) - Create a new table 
