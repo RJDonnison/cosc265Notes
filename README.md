@@ -4,7 +4,6 @@ Basic sql syntax notes for cosc265 lab test, most info collected from W3 Schools
 
 ## TODO
 
-- Triggers  
 - Add Examples
 
 ## Table
