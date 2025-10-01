@@ -3,7 +3,7 @@
 The SELECT statement is used to select data from a database. To get more sepcific data use a combination of: 
 
 - [DISTINCT](Distinct.md) - Return only distinct (different) values 
-- [WHERE](Where) - Used to filter records
+- [WHERE](Where.md) - Used to filter records
 - [ORDER BY](Sort.md) - Sort the result-set
 - [HAVING](Having.md) - Allows use of [aggregate functions](Functions.md) for filtering
 

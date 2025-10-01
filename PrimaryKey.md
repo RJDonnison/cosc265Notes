@@ -33,5 +33,8 @@ CREATE TABLE Persons (
 
 To create a **PRIMARY KEY** constraint on the "ID" column when the table is already created, use the following SQL:
 
+```
 ALTER TABLE Persons
 ADD CONSTRAINT PK_Person PRIMARY KEY (ID,LastName);
+```
+```

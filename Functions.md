@@ -2,7 +2,7 @@
 
 An aggregate function is a function that performs a calculation on a set of values, and returns a single value.
 
-Aggregate functions are often used with the [GROUP BY](Sort.md) clause of the [SELECT](Select.md) statement. The [GROUP BY](Sort.md) clause splits the result-set into groups of values and the aggregate function can be used to return a single value for each group. To perform filtering with aggregate functions use [HAVING](Having.md).
+Aggregate functions are often used with the [GROUP BY](Group.md) clause of the [SELECT](Select.md) statement. The [GROUP BY](Group.md) clause splits the result-set into groups of values and the aggregate function can be used to return a single value for each group. To perform filtering with aggregate functions use [HAVING](Having.md).
 
 The most commonly used SQL aggregate functions are:
 

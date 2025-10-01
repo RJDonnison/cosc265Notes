@@ -14,7 +14,7 @@ The following constraints are commonly used in SQL:
 - [FOREIGN KEY](ForeignKey.md) - Prevents actions that would destroy links between tables
 - [CHECK](Check.md) - Ensures that the values in a column satisfies a specific condition
 - [DEFAULT](Default.md) - Sets a default value for a column if no value is specified
-- CREATE INDEX - Used to create and retrieve data from the database very quickly
+- [CREATE INDEX](Index.md) - Used to create and retrieve data from the database very quickly
 
 ## Syntax 
 
