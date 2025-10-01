@@ -31,4 +31,4 @@ Basic sql syntax notes for cosc265 lab test, most info collected from W3 Schools
 - [INDEX](Index.md) - Speeds up queries 
 - [DATE](Date.md) - Date data type
 - [Scripts](Scripts.md) - Batch sql statement
-
+- [Examples](Examples.md) - Examples from labs
