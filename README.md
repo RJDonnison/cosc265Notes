@@ -1,6 +1,7 @@
 # SQL help
 
 Basic sql syntax notes for cosc265 lab test, most info collected from W3 Schools.
+To get the SQL query output use SQL *plus to use this the query needs to be on one line and have a semi colon at the end.
 
 ## Table
 
