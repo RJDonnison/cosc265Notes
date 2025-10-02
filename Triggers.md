@@ -15,7 +15,7 @@ For each table, you can create 6 types of triggers:
 
 ## Syntax
 
-The body of the trigger uses [PL-SQL](/PlSql.md).
+The body of the trigger uses [PL-SQL](PlSql.md).
 
 ```
 CREATE [OR REPLACE] TRIGGER trigger_name

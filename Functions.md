@@ -16,5 +16,5 @@ Aggregate functions ignore null values (except for COUNT(*)).
 
 ## Operators
 
-- [ANY()](/Any.md)
-- [ALL()](/All.md)
+- [ANY()](Any.md)
+- [ALL()](All.md)
