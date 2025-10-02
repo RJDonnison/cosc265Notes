@@ -11,4 +11,10 @@ The most commonly used SQL aggregate functions are:
 - [COUNT()](Count.md) - returns the number of rows in a set
 - [SUM()](Sum.md) - returns the total sum of a numerical column
 - [AVG()](Avg.md) - returns the average value of a numerical column
+
 Aggregate functions ignore null values (except for COUNT(*)).
+
+## Operators
+
+- [ANY()](/Any.md)
+- [ALL()](/All.md)
